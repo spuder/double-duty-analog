@@ -1,16 +1,15 @@
 
 # Double Duty (Analog)
-# Double Duty (Analog)
 An analog circuit that separates Left, Right and Microhpone Channels
 
 Allows you to connect headphones to multiple computers/phones and quickly switch between them.
 
 E.g.
-Left Channel: Computer 1
-Right Channel: Computer 2
-Microphone: Phone 1
+Left Channel: Computer 1  
+Right Channel: Computer 2  
+Microphone: Phone 1  
 
-Inspired by the [Little Bear 104](Nobsound Little Bear MC104), but improved by adding a microphone channel.
+Inspired by the [Little Bear 104](https://a.co/d/dJ4DZa3), but improved by adding a microphone channel.
 
 ## Components
 - [6X PJ-320 3.5mm Jacks](https://a.co/d/i1pVVkF)
