@@ -21,10 +21,20 @@ description: |
   These switches have mixed reviews. Shop around for higher quality switches. 
   You may need a 3d printer to print a button for the switch. 
 
-  ## Buliding
+  ## Manufacture
+
+  Gerber files are available in the CAD folder. 
+  You can upload the gerber to your favorite PCB manufacture to order PCBS
+
+  - JLCPCB
+  - PCBWay
+  - OSH Park
+
+
+  ## Assembly
 
   The CAD directory contains PDFs which can be used to make your own PCB at home using the toner transfer method. 
-  See VIAS.pdf for highlights of which pads need via connections (use thin wire)
+  See VIAS.pdf for highlights of which pads need via connections (use thin wire).
 
   You will also need a drill press.
 
@@ -34,9 +44,16 @@ description: |
   - [Harbor Freight Micro Drill Bits ($3)](https://www.harborfreight.com/power-tools/drill-driver-bits/high-speed-steel-micro-drill-bit-set-30-piece-61526.html)
 
   - [Copper Etchant ($12)](https://a.co/d/jed4hNp)
+  - Baking Soda
   - [Toner Transfer Paper (free from vinyl wrap)](https://youtu.be/haqP8xhsYas?t=112)
   - [70x100cm PCB Board ($10)](https://a.co/d/b2f2wr8)
+  - Latex Gloves
+  - Respirator
+  - Safety Glasses
+  - Kaptan Tape
 
+  Note: Early versions require an 80x100cm board. You will need to cut your own board to size. 
+  70x100cm boards wll not work for earlier versions
 
 license: 
   type: CC-Attribution # MIT, GPL, CC-Attribution, CC-Attribution-NoDerivs, CC-Attribution-ShareAlike, CC-Attribution-NonCommercial, CC-Attribution-NC-SA
